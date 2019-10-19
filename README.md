@@ -1,4 +1,4 @@
-# Curso Fron-end 101
+# Curso Front-end 101
 Curso para iniciantes de front-end, abordaremos noções básicas do uso de HTML, CSS e JS para construção de sites, app e sistemas.
 
 # Periodicidade
