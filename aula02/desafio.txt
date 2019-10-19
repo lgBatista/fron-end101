@@ -1,0 +1,24 @@
+Para a conclusão do desafio da aula 02 é necessário:
+
+Escolher 3 tags abaixo e implementa-las no código HTML.
+Escolher 3 diferentes regras de CSS (pode ser qualquer uma existente) e estilizar as tags escolhidas.
+
+Lista de tags:
+- <a>
+- <button>
+- <img>
+- <input> (texto) 
+- <input> (radio) 
+- <input> (checkbox) 
+- <select>
+- <table>
+- <ul>
+
+Critérios de aceite:
+- Não pode repetir entre os participantes as tags
+- implementação correta das tags e estilos
+- explicação da função da tag e do estilo
+- identação do código
+
+Referencias:
+https://www.w3schools.com/tags/default.asp
